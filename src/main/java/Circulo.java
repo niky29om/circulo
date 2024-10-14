@@ -27,4 +27,8 @@ public class Circulo {
     }
     public double area(){
         return 2Math.PI*radio;
+    }
+    public double diametro(){
+        return 2*radio;
+    }
 }
