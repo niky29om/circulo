@@ -25,5 +25,6 @@ public class Circulo {
     public double area(){
         return Math.PI*radio*radio-;
     }
-    
+    public double area(){
+        return 2Math.PI*radio;
 }
